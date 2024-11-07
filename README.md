@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Rosario Pio Gnazzo**
 
-**Welcome to my GitHub!** I'm a **Computer Science** master's student with a background in **Statistical Sciences** and a passion for the power of _data_ and the world of _machine learning_.
+**Welcome to my GitHub!** I'm a **Computer Science** master's student with a background in **Statistical Sciences** and a passion for the power of _Data_ and the world of _Machine Learning_.
 
 ---
 
@@ -30,19 +30,11 @@ I discovered my passion for statistics thanks to a _financial mathematics course
 
 ### 🔧 Technologies & Tools
 <!-- Optional: Add a list of your skills here (e.g., Python, R, SQL, TensorFlow) -->
-- **Languages**: Python, R, SQL
-- **Libraries/Frameworks**: PyTorch, Spark, Scikit-Learn, Pandas, NumPy
+- **Languages**: Python, R, SQL, NoSQL
+- **Libraries/Frameworks**: PyTorch, Spark, MongoDB, Scikit-Learn, Pandas, NumPy
 - **Tools**: Git, Jupyter, Docker, VSCode, PyCharm
 
 ---
-
-### 📈 GitHub Stats
-<!-- Optional: GitHub stats section. Uncomment the lines below if you'd like to add this. -->
-![Rosario's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosariopiognazzo&show_icons=true&theme=radical)
-
----
-
-
 
 <!---
 rosariopiognazzo/rosariopiognazzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

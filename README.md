@@ -1,7 +1,6 @@
 # 👋 Hi, I’m **Rosario Pio Gnazzo**
-
-I'm a **Computer Science** master's student with a background in **Statistical Sciences** and a big fan of data, science, manga and video games :)
 ---
+I'm a **Computer Science** master's student with a background in **Statistical Sciences** and a big fan of data, science, manga and video games :)
 
 ### 👀 About Me
 

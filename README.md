@@ -21,21 +21,15 @@ I discovered my passion for statistics thanks to a _financial mathematics course
 
 ---
 
-### 📫 How to Reach Me
+### 📫 How to reach me
 
 - **Email**: [rosariopiognazzo@gmail.com](mailto:rosariopiognazzo@gmail.com)
 
 ---
 
-### 🔧 Technologies & Tools
-<!-- Optional: Add a list of your skills here (e.g., Python, R, SQL, TensorFlow) -->
+### 🔧 Technologies & tools
 - **Languages**: Python, R, SQL
 - **Libraries/Frameworks**: PyTorch, TensorFlow, Spark and python libraries for data manipulation and analyse.
 - **Tools**: Git, Jupyter, VSCode, PyCharm
 
 ---
-
-<!---
-rosariopiognazzo/rosariopiognazzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

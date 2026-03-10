@@ -18,5 +18,5 @@ I discovered my passion for math and statstics thanks to a _financial mathematic
 ### How to reach me
 
 - **Email**: [rosariopiognazzo@gmail.com](mailto:rosariopiognazzo@gmail.com)
-
+- **LinkedIn**: [![LinkedIn](https://www.linkedin.com/in/rosario-pio-gnazzo-0a1701260/)
 ---
